@@ -9,6 +9,10 @@ python-dotenv = "*"
 flask-cors = "*"
 yapf = "*"
 "flake8" = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
+httpie = "*"
+flask-httpauth = "*"
 
 [dev-packages]
 
